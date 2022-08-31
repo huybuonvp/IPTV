@@ -96,7 +96,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=59c86338418e4c0fac07c5fb52b1a4b3&key=5a001b2a251137b76a3a58577c0a1295
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#https://sglive.akamaized.net/bpk-tv/prod_kplus_livetv1/default/index.mpd
+https://sglive.akamaized.net/bpk-tv/prod_kplus_livetv1/default/index.mpd
 
 #EXTINF:-1  tvg-id="klive2hd" group-title="🅺✚" tvg-logo="https://raw.githubusercontent.com/Hannstcott/SunshineTr/main/logo%20k%2B/MyK%252B_Live_2.png",K+ LIVE 2
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
@@ -104,7 +104,7 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=59c86338418e4c0fac07c5fb52b1a4b3&key=5a001b2a251137b76a3a58577c0a1295
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#https://sglive.akamaized.net/bpk-tv/prod_kplus_livetv2/default/index.mpd
+https://sglive.akamaized.net/bpk-tv/prod_kplus_livetv2/default/index.mpd
 
 #EXTINF:-1  tvg-id="klive3hd" group-title="🅺✚" tvg-logo="https://raw.githubusercontent.com/Hannstcott/SunshineTr/main/logo%20k%2B/MyK%252B_Live_3.png",K+ LIVE 3
 #EXT-X-STREAM-INF:BANDWIDTH=3803560,AVERAGE-BANDWIDTH=3803560,CODECS="avc1.640028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1080x720,AUDIO="audiod"
@@ -112,5 +112,5 @@ https://sglive.akamaized.net/bpk-tv/prod_kplus_kidshd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=59c86338418e4c0fac07c5fb52b1a4b3&key=5a001b2a251137b76a3a58577c0a1295
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#https://sglive.akamaized.net/bpk-tv/prod_kplus_livetv3/default/index.mpd
+https://sglive.akamaized.net/bpk-tv/prod_kplus_livetv3/default/index.mpd
 
