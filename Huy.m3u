@@ -100,4 +100,11 @@ http://live.tv360.vn/manifest/K_PLUS_PM_SD/master.mpd?hdnts=exp=1652706118~acl=/
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f3bfadc4cf9e47f49d74b067a7863b1c&key=5db9686ccc26471fd9ecd08775e56907 
 http://live.tv360.vn/manifest/K_PLUS_PC_SD/master.mpd?hdnts=exp=1652706118~acl=/*~hmac=6138509dfc2c9be96ed2cdcc6ef34a728031ca0ec79d3052c7ba388d7c92a105
 
-
+#EXTINF:-1 group-title="Kplus" tvg-id="kcinehd" tvg-logo="http://onetv.click/logo/kcinehd.jpg",K+Cine HD
+https://travinhtv.vn/api/httpsline/aHR0cDovLzEwNmJlYzlkOC52d3MudmVnYWNkbi52bi9jbGlwdHZfbGl2ZS9hbWxzdDprcGx1c2hk&chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Kplus" tvg-id="klifehd" tvg-logo="http://onetv.click/logo/klifehd.jpg",K+Life HD
+https://travinhtv.vn/api/httpsline/aHR0cDovLzEwNmJlYzlkOC52d3MudmVnYWNkbi52bi9jbGlwdHZfbGl2ZS9hbWxzdDprbnNoZA&chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Kplus" tvg-id="ksport1hd" tvg-logo="http://onetv.click/logo/ksport1hd.jpg",K+Sport1 HD
+https://travinhtv.vn/api/httpsline/aHR0cDovLzEwNmJlYzlkOC52d3MudmVnYWNkbi52bi9jbGlwdHZfbGl2ZS9hbWxzdDprcG1oZA&chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Kplus" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg",K+Sport2 HD
+https://travinhtv.vn/api/httpsline/aHR0cDovLzEwNmJlYzlkOC52d3MudmVnYWNkbi52bi9jbGlwdHZfbGl2ZS9hbWxzdDprcGNoZA&chunklist_b3128000.m3u8
