@@ -399,4 +399,4 @@ https://kplus-livecdn.fptplay.net/live/drmlive/14022022k1sport1_4000.stream/mani
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=f673aeef24dc3f4ba6437ef3b37cfa92&key=d485c33b5af849911b3b5fc212188098
 #EXTINF:-1 group-title="Kplus - Bảo Chính" tvg-id="ksport2hd" tvg-logo="http://onetv.click/logo/ksport2hd.jpg",K+Sport2 HD - Nguồn FPTPlay
-https://kplus-livecdn.fptplay.net/live/drmlive/14022022k1sport2_4000.stream/manifest.mpd
+https://live-drm.fptplay.net/MjU0MzE2NDV8MjcwODIwMjFrMXBjX3ZobHMuc21pbHx2bnB0fDE2NjQyMDk3MDZ8MTEzLjE4Ni40MS4xMTR8ZjM4Mzg3ZmI1MDk0MTgyNWMyYTk2NGI4MzUwMDg3MWY/webplus/27082021k1pc_vhls.smil/manifest.mpd
